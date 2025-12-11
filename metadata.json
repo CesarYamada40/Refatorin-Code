@@ -1,0 +1,5 @@
+{
+  "name": "Code Brain AI",
+  "description": "An AI-powered tool to analyze, fix, and improve your code. Upload your code, choose an action, and let the AI provide expert insights and refactored solutions across multiple programming languages.",
+  "requestFramePermissions": []
+}
